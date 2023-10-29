@@ -1,18 +1,17 @@
 ![logo](https://github.com/PiyushLuitel-07/PiyushLuitel-07/blob/main/K%20(1).png)
 <h1 align="center">Hi 👋, I'm Piyush Luitel</h1>
-<p>👨‍💻 3rd Year Computer Engineering Student</p>
+<h3 align="center">👨‍💻 3rd Year Computer Engineering Student</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushluitel-07" alt="piyushluitel-07" /></a> </p>
 <p>🏫 Studying at IOE Thapathali Engineering Campus</p>
 <p>🚀 Enthusiast for New Technologies</p>
 <p>🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</p>
 <p>💻 Aspiring Software Engineering Student</p>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushluitel-07" alt="piyushluitel-07" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 📫 How to reach me **luitelpiyush96@gmail.com**
+<p>🌱 I’m currently learning Data Science and Machine Learning</p>
+<p>📫 How to reach me luitelpiyush96@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
