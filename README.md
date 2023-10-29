@@ -1,9 +1,10 @@
+![logo](https://github.com/PiyushLuitel-07/PiyushLuitel-07/blob/main/K%20(1).png)
 <h1 align="center">Hi 👋, I'm Piyush Luitel</h1>
-<h3 align="center">👨‍💻 3rd Year Computer Engineering Student</h3>
-<h3 align="center">🏫 Studying at IOE Thapathali Engineering Campus</h3>
-<h3 align="center">🚀 Enthusiast for New Technologies</h3>
-<h3 align="center">🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</h3>
-<h3 align="center">💻 Aspiring Software Engineering Student</h3>
+<p>👨‍💻 3rd Year Computer Engineering Student</p>
+<p>🏫 Studying at IOE Thapathali Engineering Campus</p>
+<p>🚀 Enthusiast for New Technologies</p>
+<p>🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</p>
+<p>💻 Aspiring Software Engineering Student</p>
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
 
