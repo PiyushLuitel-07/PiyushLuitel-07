@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Luitel</h1>
-<h3 align="center">👨‍💻 3rd Year Computer Engineering Student 🏫 Studying at IOE Thapathali Engineering Campus 🚀 Enthusiast for New Technologies 🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence 💻 Aspiring Software Engineer</h3>
+<h3 align="center">👨‍💻 3rd Year Computer Engineering Student</h3>
+<h3 align="center">🏫 Studying at IOE Thapathali Engineering Campus</h3>
+<h3 align="center">🚀 Enthusiast for New Technologies</h3>
+<h3 align="center">🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</h3>
+<h3 align="center">💻 Aspiring Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
 
@@ -25,28 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushluitel-07&show_icons=true&locale=en" alt="piyushluitel-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushluitel-07&" alt="piyushluitel-07" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
