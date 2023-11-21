@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushluitel-07" alt="piyushluitel-07" /></a> </p>
 <p>🏫 Studying at IOE Thapathali Engineering Campus</p>
-<p>🚀 Enthusiast for New Technologies</p>
+<p>🚀 Enthusiast for Learning new Technologies</p>
 <p>🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</p>
 <p>💻 Aspiring Software Engineering Student</p>
 <p>🌱 I’m currently learning Data Science and Machine Learning</p>
-<p>📫 How to reach me luitelpiyush96@gmail.com</p>
+<p>📫 Contact me ::  luitelpiyush96@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
