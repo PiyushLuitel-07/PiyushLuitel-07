@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/piyush luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush luitel" height="30" width="40" /></a>
 <a href="https://kaggle.com/piyush_luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyush_luitel" height="30" width="40" /></a>
-<a href="https://fb.com/piyush luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush luitel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61554158726662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush luitel" height="30" width="40" /></a>
 <a href="https://instagram.com/piyushluitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushluitel" height="30" width="40" /></a>
 </p>
 
