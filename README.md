@@ -1,25 +1,19 @@
 ![logo](https://github.com/PiyushLuitel-07/PiyushLuitel-07/blob/main/K%20(1).png)
 <h1 align="center">Hi 👋, I'm Piyush Luitel</h1>
-<h3 align="center">👨‍💻 4th Year Computer Engineering Student</h3>
+<h3 align="center">👨‍💻 Data Scientist and a Registered Computer Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushluitel-07" alt="piyushluitel-07" /></a> </p>
-<p>🏫 Studying at IOE Thapathali Engineering Campus</p>
-<p>🚀 Enthusiast for Learning new Technologies</p>
-<p>🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence</p>
-<p>💻 Aspiring Software Engineering Student</p>
-<p>🌱 I’m currently learning Data Science and Machine Learning</p>
-<p>📫 Contact me ::  luitelpiyush96@gmail.com</p>
-<p>🏫 Visit my personal portfolio website at <a href="https://sites.google.com/view/piyushluitelds/home?authuser=0">My_Portfolio_Website</a></p>
+
+
+<p>🤖 Machine Learning, Data Science, and Artificial Intelligence</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush luitel" height="30" width="40" /></a>
-<a href="https://kaggle.com/piyush_luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyush_luitel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61554158726662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush luitel" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushluitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushluitel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
