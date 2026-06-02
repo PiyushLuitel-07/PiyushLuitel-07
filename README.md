@@ -26,10 +26,10 @@
 
 I build **production-grade AI systems** that solve real-world problems — from OCR pipelines that save **$65,000/year** in manual data entry, to RAG systems analyzing 500+ customer transcripts with LangChain and Claude LLM.
 
+- 💼 Currently ** Data Scientist** at **FleetPanda** (Petroleum Logistics)
+- 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
 - 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU | **CGPA 3.7/4.0**
 - 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
-- 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
-- 💼 Currently **Associate Data Scientist** at **FleetPanda** (Petroleum Logistics)
 - 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
 
 ---
@@ -37,7 +37,7 @@ I build **production-grade AI systems** that solve real-world problems — from 
 ## 💼 What I'm Working On
 
 ```yaml
-role:     Associate Data Scientist @ FleetPanda
+role:      Data Scientist @ FleetPanda
 focus:
   - Layout-aware OCR for automated Bill of Lading extraction (80% reduction in manual entry)
   - RAG pipeline with LangChain + Claude LLM analyzing 500+ call transcripts
