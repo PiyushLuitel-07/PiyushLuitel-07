@@ -1,23 +1,163 @@
-![logo](https://github.com/PiyushLuitel-07/PiyushLuitel-07/blob/main/K%20(1).png)
-<h1 align="center">Hi 👋, I'm Piyush Luitel</h1>
-<h3 align="center">👨‍💻 Data Scientist and a Registered Computer Engineer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushluitel-07&label=Profile%20views&color=0e75b6&style=flat" alt="piyushluitel-07" /> </p>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
 
+```
+██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-<p>🤖 Machine Learning, Data Science, and Artificial Intelligence</p>
+# Piyush Luitel
 
+**Data Scientist · AI/ML Engineer · Registered Computer Engineer (IOE, NEC)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush luitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush luitel" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushluitel-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/piyushluitel)
+[![GitHub](https://img.shields.io/badge/GitHub-PiyushLuitel--07-181717?style=flat-square&logo=github)](https://github.com/PiyushLuitel-07)
+[![YouTube](https://img.shields.io/badge/YouTube-@piyushluitel7-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@piyushluitel7)
+![Profile Views](https://komarev.com/ghpvc/?username=piyushluitel-07&style=flat-square&color=1D9E75)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushluitel-07&show_icons=true&locale=en&layout=compact" alt="piyushluitel-07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushluitel-07&show_icons=true&locale=en" alt="piyushluitel-07" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushluitel-07&" alt="piyushluitel-07" /></p> -->
+I build **production-grade AI systems** that solve real-world problems — from OCR pipelines that save **$65,000/year** in manual data entry, to RAG systems analyzing 500+ customer transcripts with LangChain and Claude LLM.
+
+- 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU | **CGPA 3.7/4.0**
+- 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
+- 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
+- 💼 Currently **Associate Data Scientist** at **FleetPanda** (Petroleum Logistics)
+- 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
+
+---
+
+## 💼 What I'm Working On
+
+```yaml
+role:     Associate Data Scientist @ FleetPanda
+focus:
+  - Layout-aware OCR for automated Bill of Lading extraction (80% reduction in manual entry)
+  - RAG pipeline with LangChain + Claude LLM analyzing 500+ call transcripts
+  - Voice-to-Action AI Agent using Speech-to-Text + Browser-use Framework
+  - Fine-tuning microsoft/phi-2 with QLoRA (4-bit, 75% memory reduction)
+  - Predictive fuel demand forecasting deployed on AWS Lambda
+  - Route optimization for petroleum logistics
+infra:    AWS Lambda · EKS · Kubernetes · API Gateway
+```
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**
+`Python` `SQL` `C/C++` `R` `MATLAB`
+
+**Machine Learning & Deep Learning**
+`PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `Keras` `Hugging Face Transformers`
+
+**LLMs & NLP**
+`LangChain` `LlamaIndex` `RASA` `BERT` `GPT` `QLoRA / PEFT` `RAG`
+
+**Computer Vision**
+`YOLOv8` `OpenCV` `PaddleOCR` `Tesseract` `Object Detection`
+
+**MLOps & Cloud**
+`AWS (Lambda · EKS · S3 · EC2)` `Docker` `Kubernetes` `MLflow` `GCP`
+
+**Data & Visualization**
+`Pandas` `NumPy` `Tableau` `Power BI` `Plotly` `Apache Spark`
+
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `Neo4j` `FAISS`
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 [NutriGuard](https://github.com/PiyushLuitel-07/NutriGuard) — AI-Powered Nutrition Assessment *(Bachelor Thesis)*
+> Real-time nutritional analysis and personalized glycemic impact prediction for diabetic patients
+
+- **YOLOv8** nutrition label detection — `mAP: 0.90`
+- **XGBoost** glycemic index regression — `R²: 0.94`
+- Google Gemini API + PaddleOCR for multilingual food label extraction
+- Fine-tuned **Diabetica LLM** for personalized meal recommendations
+- [📺 Demo](https://youtube.com/@piyushluitel7)
+
+---
+
+### 🤖 [Samadhan](https://github.com/PiyushLuitel-07) — Bilingual Government Services Chatbot
+> Nepali/English conversational AI for citizen government service queries
+
+- RASA NLP framework with custom NER pipelines
+- `Accuracy: 98.4%` · `Precision: 96.3%` · `F1-Score: 97.1%`
+- Designed for bandwidth-constrained, resource-limited environments
+- [📺 Demo](https://youtube.com/@piyushluitel7)
+
+---
+
+### 💰 AML Detection — Nepal AI School (ANAIS 2024)
+> Anti-money laundering detection using graph analytics on real financial data
+
+- Graph analytics with `igraph` and `Neo4j` on authentic F1Soft International data
+- Suspicious cluster detection using graph-based anomaly algorithms
+- Built alongside researchers from University of Oxford & ETH Zurich
+
+---
+
+## 🏅 Certifications
+
+<details>
+<summary><b>Google Career Certificates (9)</b></summary>
+
+- Advanced Data Analytics Professional Certificate
+- Machine Learning Specialization
+- Python for Data Science
+- Statistics and Probability for Data Analysis
+- Project Management Professional Certificate
+- Business Intelligence and Data Visualization
+- Cloud Computing and Infrastructure Configuration
+- Data Models, Pipelines, and ETL Architecture
+- Advanced Dashboard Design and Reporting
+
+</details>
+
+<details>
+<summary><b>Other Certifications</b></summary>
+
+- **KNIME** — Data Science Professional Certification
+- **LinkedIn Learning** — Deep Learning & Neural Network Architectures
+- **LinkedIn Learning** — Agentic AI and Autonomous Systems
+- **LinkedIn Learning** — Retrieval-Augmented Generation (RAG) Systems
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=piyushluitel-07&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushluitel-07&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="170"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔁 Agentic AI workflows & multi-agent orchestration
+- 🧬 Efficient LLM fine-tuning (QLoRA, LoRA, PEFT)
+- 📦 Production ML systems at scale (Kubernetes + MLflow)
+- 🔍 Advanced RAG architectures (multi-query, re-ranking, MMR)
+
+---
+
+<div align="center">
+
+*"Building AI that works in the real world — not just notebooks."*
+
+</div>
