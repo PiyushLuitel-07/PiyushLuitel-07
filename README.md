@@ -98,6 +98,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 - Designed for bandwidth-constrained, resource-limited environments
 - [📺 Demo](https://youtube.com/@piyushluitel7)
 
+<!-- 
 ---
 
 ### 💰 AML Detection — Nepal AI School (ANAIS 2024)
@@ -108,6 +109,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 - Built alongside researchers from University of Oxford & ETH Zurich
 
 ---
+-->
 
 ## 🏅 Certifications
 
