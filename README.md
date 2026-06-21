@@ -23,15 +23,16 @@
 ---
 
 ## 🧠 About Me
-
+<!-- 
 I build **production-grade AI systems** that solve real-world problems — OCR pipelines, RAG systems, time series forecasting, demand forecasting and Customer Reports.
-
+-->
 - 💼 Currently ** Data Scientist** at **FleetPanda**
 - 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
 - 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU | **CGPA 3.7/4.0**
 - 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
 - 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
 
+<!-- 
 ---
 
 ## 💼 What I'm Working On
@@ -49,6 +50,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 ```
 
 ---
+-->
 
 ## 🔧 Tech Stack
 
@@ -77,7 +79,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 ## 🚀 Featured Projects
 
-### 🥗 [NutriGuard](https://github.com/PiyushLuitel-07/NutriGuard) — AI-Powered Nutrition Assessment *(Bachelor Thesis)*
+### 🥗 [NutriGuard](https://github.com/PiyushLuitel-07/NutriGuard) — AI-Enhanced Nutritional Label extraction and Diabaetes Health Assessment *(Bachelor Thesis)*
 > Real-time nutritional analysis and personalized glycemic impact prediction for diabetic patients
 
 - **YOLOv8** nutrition label detection — `mAP: 0.90`
@@ -134,7 +136,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 </details>
 
-
+<!-- 
 ## 🌱 Currently Exploring
 
 - 🔁 Agentic AI workflows & multi-agent orchestration
@@ -149,3 +151,5 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 *"Building AI that works in the real world — not just notebooks."*
 
 </div>
+
+-->
