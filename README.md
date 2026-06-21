@@ -11,7 +11,7 @@
 
 # Piyush Luitel
 
-**Data Scientist · AI/ML Engineer · Registered Computer Engineer (IOE, NEC)**
+**Data Scientist · Registered Computer Engineer (Nepal Engineering Council)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushluitel-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/piyushluitel)
 [![GitHub](https://img.shields.io/badge/GitHub-PiyushLuitel--07-181717?style=flat-square&logo=github)](https://github.com/PiyushLuitel-07)
@@ -24,9 +24,9 @@
 
 ## 🧠 About Me
 
-I build **production-grade AI systems** that solve real-world problems — from OCR pipelines that save **$65,000/year** in manual data entry, to RAG systems analyzing 500+ customer transcripts with LangChain and Claude LLM.
+I build **production-grade AI systems** that solve real-world problems — OCR pipelines, RAG systems, time series forecasting, demand forecasting and Customer Reports.
 
-- 💼 Currently ** Data Scientist** at **FleetPanda** (Petroleum Logistics)
+- 💼 Currently ** Data Scientist** at **FleetPanda**
 - 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
 - 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU | **CGPA 3.7/4.0**
 - 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
@@ -42,7 +42,7 @@ focus:
   - Layout-aware OCR for automated Bill of Lading extraction (80% reduction in manual entry)
   - RAG pipeline with LangChain + Claude LLM analyzing 500+ call transcripts
   - Voice-to-Action AI Agent using Speech-to-Text + Browser-use Framework
-  - Fine-tuning microsoft/phi-2 with QLoRA (4-bit, 75% memory reduction)
+  - Fine-tuning large language models
   - Predictive fuel demand forecasting deployed on AWS Lambda
   - Route optimization for petroleum logistics
 infra:    AWS Lambda · EKS · Kubernetes · API Gateway
