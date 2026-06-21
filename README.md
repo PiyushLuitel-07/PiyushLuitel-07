@@ -52,6 +52,9 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 ---
 -->
 
+<!-- 
+
+
 ## 🔧 Tech Stack
 
 **Languages**
@@ -74,6 +77,23 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 **Databases**
 `PostgreSQL` `MySQL` `MongoDB` `Neo4j` `FAISS`
+-->
+## 🔧 Tech Stack
+
+**Languages**
+`Python` `SQL` `C/C++` `R` `MATLAB`
+
+**Data Analysis & Modeling**
+`Scikit-Learn` `PyTorch` `TensorFlow` `XGBoost` `Keras` `Statistical Modeling`
+
+**Data & Cloud**
+`Pandas` `NumPy` `Apache Spark` `AWS (Lambda · S3 · EC2)` `Docker` `Git` `Apache Superset`
+
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `Neo4j`
+
+**Visualization**
+`Tableau` `Power BI` `Matplotlib` `Plotly`
 
 ---
 
@@ -133,8 +153,9 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 - **KNIME** — Data Science Professional Certification
 - **LinkedIn Learning** — Deep Learning & Neural Network Architectures
-- **LinkedIn Learning** — Agentic AI and Autonomous Systems
-- **LinkedIn Learning** — Retrieval-Augmented Generation (RAG) Systems
+
+<!--- **LinkedIn Learning** — Agentic AI and Autonomous Systems
+- **LinkedIn Learning** — Retrieval-Augmented Generation (RAG) Systems>
 
 </details>
 
