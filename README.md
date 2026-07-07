@@ -25,10 +25,10 @@
 ## 🧠 About Me
 <!-- 
 I build **production-grade AI systems** that solve real-world problems — OCR pipelines, RAG systems, time series forecasting, demand forecasting and Customer Reports.
+- 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
 -->
 - 💼 Currently ** Data Scientist** at **FleetPanda**
-- 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
-- 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU | **CGPA 3.7/4.0**
+- 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU 
 - 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
 - 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
 
