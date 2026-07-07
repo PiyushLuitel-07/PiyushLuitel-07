@@ -94,7 +94,7 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 **Visualization**
 `Tableau` `Power BI` `Matplotlib` `Plotly`
-
+<!-- 
 ---
 
 ## 🚀 Featured Projects
