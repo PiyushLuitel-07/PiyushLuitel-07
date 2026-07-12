@@ -129,6 +129,10 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 ---
 -->
 
+<!--- **LinkedIn Learning** — Agentic AI and Autonomous Systems
+- **LinkedIn Learning** — Retrieval-Augmented Generation (RAG) Systems>
+
+</details>
 ## 🏅 Certifications
 
 <details>
@@ -151,12 +155,6 @@ infra:    AWS Lambda · EKS · Kubernetes · API Gateway
 
 - **KNIME** — Data Science Professional Certification
 - **LinkedIn Learning** — Deep Learning & Neural Network Architectures
-
-<!--- **LinkedIn Learning** — Agentic AI and Autonomous Systems
-- **LinkedIn Learning** — Retrieval-Augmented Generation (RAG) Systems>
-
-</details>
-
 <!-- 
 ## 🌱 Currently Exploring
 
