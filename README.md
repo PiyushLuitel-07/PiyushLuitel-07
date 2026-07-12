@@ -10,9 +10,6 @@
 ```
 
 # Piyush Luitel
-
-**Data Scientist · Registered Computer Engineer (Nepal Engineering Council)**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushluitel-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/piyushluitel)
 [![GitHub](https://img.shields.io/badge/GitHub-PiyushLuitel--07-181717?style=flat-square&logo=github)](https://github.com/PiyushLuitel-07)
 [![YouTube](https://img.shields.io/badge/YouTube-@piyushluitel7-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@piyushluitel7)
@@ -26,8 +23,9 @@
 <!-- 
 I build **production-grade AI systems** that solve real-world problems — OCR pipelines, RAG systems, time series forecasting, demand forecasting and Customer Reports.
 - 🔬 Alumnus of **Nepal AI School (ANAIS 2024)** — trained alongside researchers from **Oxford, ETH Zurich, and IITs**
--->
+**Data Scientist · Registered Computer Engineer (Nepal Engineering Council)**
 - 💼 Currently ** Data Scientist** at **FleetPanda**
+-->
 - 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU 
 - 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
 - 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
