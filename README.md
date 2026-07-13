@@ -26,10 +26,6 @@ I build **production-grade AI systems** that solve real-world problems — OCR p
 **Data Scientist · Registered Computer Engineer (Nepal Engineering Council)**
 - 💼 Currently ** Data Scientist** at **FleetPanda**
 -->
-- 🎓 **B.E. Computer Engineering** — IOE, Thapathali Campus, TU 
-- 🏆 **All-Nepal Rank 423** among 18,000+ applicants in the IOE entrance exam
-- 🌍 Based in **Kirtipur, Kathmandu, Nepal 🇳🇵**
-
 <!-- 
 ---
 
